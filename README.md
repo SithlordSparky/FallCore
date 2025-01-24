@@ -4,13 +4,6 @@ FallCore is a simple core setup for Fallout 4.  A great spot to start a new modl
 
 It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful building utilities. In addition it contains the UFO4P, and Modding Tools needed for Fallout 4.
 
-![CPC_Heroshot]()
-
- | [![Discord Banner 2](https://discordapp.com/api/guilds/958710541017317397/widget.png?style=banner2)](https://discord.gg/SsCAsvEN) |
-| - | - | - |
-
-
-
 - [Quick Links](#quick-links)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
