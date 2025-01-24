@@ -94,27 +94,7 @@ On a brand new installation of Fallout 4, or after reverting a "cleaned" Fallout
 
 #### Creation Club
 
-![Creation_Club_Purchased](https://raw.githubusercontent.com/Yagisan/SS2-City-Plan-Contest-Helper/main/assets/images/Creation_Club_Purchased.webp)
-
 If you own any items from the Creation Club, they are not automatically reinstalled when you install Fallout 4. To reinstall Creation Club items, you must launch the game, select the Creation Club menu option, select the purchased option, then download each Creation club item individually.
-
-This release now can **optionally** install the following Creation Club Content, if it is detected.
-
-* Arcade Workshop Pack
-* Charlestown Condo
-* Coffee and Donuts Workshop Pack
-* Home Decor Workshop Pack
-* Modern Furniture Workshop Pack
-* Nuka-Cola Collector Workshop
-* Noir Penthouse
-* Holiday Workshop Pack
-* Shroud Manor
-* Neon Flats
-* Capital Wasteland Mercenaries
-* Captain Cosmos
-* Settlement Ambush Kit
-
-**Players must obviously own that Creation Club content, and must have downloaded it via the in-game launcher, in their main Fallout 4 installation.**
 
 ### Using Wabbajack
 
@@ -129,9 +109,9 @@ The download and installation process can take a very long time depending on you
 ##### Automatic - Recommended
 
 1. Open Wabbajack.
-2. Click on **Browse Modlists**. Under Games, select Fallout 4. Enable "Show Unofficial Lists". Select SimSettlements 2 City Plan Contest Helper from the selection.
-3. Set the _installation location_. The recommended installation location is `C:\WJ\CPC`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.** Do not install to a _OneDrive_ folder.
-4. Set the _download location_. The recommended download location is `C:\WJ\CPC_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a _OneDrive_ folder.
+2. Click on **Browse Modlists**. Under Games, select Fallout 4. Enable "Show Unofficial Lists". Select FallCore from the selection.
+3. Set the _installation location_. The recommended installation location is `C:\WJ\FallCore`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.** Do not install to a _OneDrive_ folder.
+4. Set the _download location_. The recommended download location is `C:\WJ\FallCore_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. Do not install to a _OneDrive_ folder.
 5. Check **Overwrite Installation**
 6. Click the Go/Begin button
 7. Wait for Wabbajack to finish
@@ -139,12 +119,12 @@ The download and installation process can take a very long time depending on you
 
 ##### Manual - Not Recommended
 
-1. [Download the latest released .wabbajack file from GitHub](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/releases). Save it to a temporary folder. The recommended temporary folder is `C:\Temp\CPC`.
+1. [Download the latest released .wabbajack file from GitHub](https://github.com/SithlordSparky/FallCore/tree/main/Releases). Save it to a temporary folder. The recommended temporary folder is `C:\Temp\FallCore`.
 2. Open Wabbajack.
-3. Click on Install form Disk. Set the target modlist to `C:\Temp\CPC\Yagisan's SimSettlements 2 City Plan Contest Helper.wabbajack`
-4. Set the _installation location_. The recommended installation location is `C:\WJ\CPC`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.**
-5. Set the _download location_. The recommended download location is `C:\WJ\CPC_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
-6. If you have existing downloads from Vortex or MO2, you may copy the `.zip`, `.7z`, or `.rar` files only to the _download location_. The recommended download location is `C:\WJ\CPC_downloads`. If the file you copy is exactly the same as what this wabbajack users, it will not be downloaded again, saving bandith.
+3. Click on Install from Disk. Set the target modlist to `C:\Temp\FallCore`
+4. Set the _installation location_. The recommended installation location is `C:\WJ\FallCore`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. **The rest of this document will assume you are using the recommended installation path.**
+5. Set the _download location_. The recommended download location is `C:\WJ\FallCore_downloads`.  This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder.
+6. If you have existing downloads from Vortex or MO2, you may copy the `.zip`, `.7z`, or `.rar` files only to the _download location_. The recommended download location is `C:\WJ\FallCore_downloads`. If the file you copy is exactly the same as what this wabbajack users, it will not be downloaded again, saving bandith.
 7. Click the Go/Begin button. Wabbajack will check your downloads for matching files, and download any files it needs.
 8. Wait for Wabbajack to finish
 9. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
@@ -165,7 +145,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 # Setting Graphics options
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\CPC\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\FallCore\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it.
 
  Ensure it is set to **Fallout Launcher** by selecting it in the dropdown box and then hitting the run button. You have to run the Fallout Launcher through Mod Organizer 2 in order update your graphics settings for Yagisan's SimSettlements 2 City Plan Contest Helper.
 
