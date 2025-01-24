@@ -18,10 +18,10 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/SithlordSparky/FallCore/blob/main/Assets/Fallcore.png",
+      "image": "https://raw.githubusercontent.com/SithlordSparky/FallCore/main/Assets/Fallcore.png",
       "readme": "https://github.com/SithlordSparky/FallCore/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/FallCore.wabbajack_27209944-923a-4668-a0e2-82238a5fcaa1",
-      "machineURL": "machineURL",
+      "machineURL": "FALLCORE",
       "discordURL": "https://discord.gg/SsCAsvEN"
     },
     "download_metadata": {
