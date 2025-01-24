@@ -161,11 +161,11 @@ Head over to the installation folder and locate an executable named `ModOrganize
 
 # Installing owned Creation Club content
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\CPC\ModOrganizer.exe` if you have followed the recommended settings. **Once it is launched, click on the jigsaw puzzle icon in the menu bar. Then select Creation Organizer. Then restart the SS2CPC Helper.** You should do this after you download new Creation Club content, to get changes and updates.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\FallCore\ModOrganizer.exe` if you have followed the recommended settings. **Once it is launched, click on the jigsaw puzzle icon in the menu bar. Then select Creation Organizer. Then restart the SS2CPC Helper.** You should do this after you download new Creation Club content, to get changes and updates.
 
 # Starting the Game
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\CPC\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. This will be `C:\WJ\FallCore\ModOrganizer.exe` if you have followed the recommended settings. Once it is launched, there will be a dropdown box on the top right and a big run button right next to it.
 
 Ensure it is set to **F4SE** by selecting it in the dropdown box and then hitting the run button. You have to run F4SE through Mod Organizer 2 in order to play Yagisan's SimSettlements 2 City Plan Contest Helper.
 
@@ -179,15 +179,7 @@ Your downloads folder will not be touched.
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-# Starting the game
 
-After starting the game, there are a few clean saves included. Load one, wait a few moments for mods to initialise, then exit Vault 111.
-
-It is **very** important that you wait until all the messages in the top left corner have finished. Now would be an excellent time to go make a cup of tea or coffee. Once these messages have finished, press `ESCAPE` and create a manual save before you continue, and proceed to exit the vault.
-
-At this point a second group of mods will begin initialising, including the city plan contest holotape. Answer the questions prompted by the holotape, press the `~` key, then type `tgm`, then press the `ENTER` key to turn on god mode. The remainder of the mods will now initialise.
-
-It is **very** important that you wait until all the messages in the top left corner have finished. Now would be an excellent time to go make a another cup of tea or coffee. Once these messages have finished, open the MCM, and in `MCM Settings manager` apply the supplied `Yagisan's City Plan Contest` preset. Now you are ready to go the the contest location, and start building.
 
 # Other Post Installation FAQ
 
@@ -197,8 +189,8 @@ By default the list ships with a safe 720p fullscreen configuration. To change t
 
 ## Removing the Modlist
 
-Simply delete the installation folder (`C:\WJ\CPC` if you have been following this guide) and that will remove it, but why would you want to?
+Simply delete the installation folder (`C:\WJ\FallCore` if you have been following this guide) and that will remove it, but why would you want to?
 
 ## Contact and Technical Support
 
-Please check the [Issues](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug in the mod list, please file bug report [here](https://github.com/Yagisan/SS2-City-Plan-Contest-Helper/issues) with as much information as possible to replicate the issue. There is a [Support Discord](https://discord.gg/rB5RFgHhUD) for issues with the mod list. Requests for support on any other platform will be ignored. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+Please check the [Issues](https://github.com/SithlordSparky/FallCore/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug in the mod list, please file bug report [here](https://github.com/SithlordSparky/FallCore/issues) with as much information as possible to replicate the issue. There is a [Support Discord]() for issues with the mod list. Requests for support on any other platform will be ignored.
