@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "FallCore",
+    "description": "FallCore is a simple core setup for Fallout 4.  A great spot to start a new modlist.  All the mods and tools needed to get into the game.",
+    "author": "JustinKringstad",
+    "maintainers": [
+      "github.com/SithlordSparky"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "Official",
+      "Fallout4",
+      "Starter",
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://i.imgur.com/tmrkrzP.jpeg",
+      "readme": "<link to your readme for your modlist>",
+      "download": "https://authored-files.wabbajack.org/FallCore.wabbajack_27209944-923a-4668-a0e2-82238a5fcaa1",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/SsCAsvEN"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0"
+  }
+]
