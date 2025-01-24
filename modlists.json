@@ -19,7 +19,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://i.imgur.com/tmrkrzP.jpeg",
-      "readme": "<link to your readme for your modlist>",
+      "readme": "https://github.com/SithlordSparky/FallCore/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/FallCore.wabbajack_27209944-923a-4668-a0e2-82238a5fcaa1",
       "machineURL": "machineURL",
       "discordURL": "https://discord.gg/SsCAsvEN"
@@ -27,12 +27,12 @@
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
+      "Size": 52GB,
       "NumberOfArchives": 14,
       "SizeOfArchives": 135206078,
       "NumberOfInstalledFiles": 1311,
       "SizeOfInstalledFiles": 336453775
     },
-    "version": "1.0"
+    "version": "0.2"
   }
 ]
