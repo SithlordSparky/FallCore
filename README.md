@@ -27,7 +27,6 @@ It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful bui
 - [Installing owned Creation Club content](#installing-owned-creation-club-content)
 - [Starting the Game](#starting-the-game)
 - [Updating](#updating)
-- [Starting the game](#starting-the-game-1)
 - [Other Post Installation FAQ](#other-post-installation-faq)
   - [Adjusting the resolution](#adjusting-the-resolution)
   - [Removing the Modlist](#removing-the-modlist)
