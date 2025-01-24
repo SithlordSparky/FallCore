@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/SithlordSparky/FallCore/main/Assets/Fallcore.webm",
+      "image": "https://raw.githubusercontent.com/SithlordSparky/FallCore/refs/heads/main/Assets/Fallcore.webp",
       "readme": "https://github.com/SithlordSparky/FallCore/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/FallCore.wabbajack_27209944-923a-4668-a0e2-82238a5fcaa1",
       "machineURL": "FALLCORE",
