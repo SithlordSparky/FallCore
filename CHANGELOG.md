@@ -1,7 +1,9 @@
 -0.1 ChangeLog  
+- Added:  
 --Compiled List  
 
 -0.2 ChangeLog  
+- Added:  
 --Image for Wabbajack  
 
 -0.3 ChangeLog  
@@ -31,7 +33,7 @@
 --Far Harbor 3d Tree LOD's
 
 -0.5 ChangeLog  
-- Added: 
+- Added:  
 --Minuteman Radiant Quest Random Fail Fixer
 --Dependency Quest Fix  
 --BOS T-60c Quest Reward Name Fix  
@@ -66,24 +68,3 @@
 --Lore Based Loading Screens  
 --Enhanced Vanilla Asphalt Roads  
 --Improved Map with Visible Roads  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
