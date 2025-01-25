@@ -182,14 +182,15 @@ Updating is like installing. You only have to make sure that you select the same
 
 # Other Post Installation FAQ
 
-## Adjusting the resolution
+## Generating Textures and LOD's
+If you are wanting to generate Textures and LOD's, All the required tools are included in this pack.
+Use this guide: [LOD Generation Instructions](https://www.nexusmods.com/fallout4/articles/4162)
 
+## Adjusting the resolution
 By default the list ships with a safe 720p fullscreen configuration. To change this, click on `F4SE` in the dropdown list. Select `Fallout 4 Launcher` then click run. Adjust your settings as in vanilla, then  quit the launcher. Click on `Fallout 4 Launcher` in the dropdown list. Select `F4SE` then click run to start the game.
 
 ## Removing the Modlist
-
 Simply delete the installation folder (`C:\WJ\FallCore` if you have been following this guide) and that will remove it, but why would you want to?
 
 ## Contact and Technical Support
-
 Please check the [Issues](https://github.com/SithlordSparky/FallCore/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug in the mod list, please file bug report [here](https://github.com/SithlordSparky/FallCore/issues) with as much information as possible to replicate the issue. There is a [Support Discord]() for issues with the mod list. Requests for support on any other platform will be ignored.
