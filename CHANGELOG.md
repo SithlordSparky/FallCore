@@ -68,3 +68,8 @@
 --Lore Based Loading Screens  
 --Enhanced Vanilla Asphalt Roads  
 --Improved Map with Visible Roads  
+
+-0.6 ChangeLog  
+- Removed:  
+--X-Cell - was causing issues.  
+---Removed Changes to Buffout and Baka config files  
