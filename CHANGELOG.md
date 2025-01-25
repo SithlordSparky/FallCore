@@ -73,3 +73,8 @@
 - Removed:  
 --X-Cell - was causing issues.  
 ---Removed Changes to Buffout and Baka config files  
+
+-0.7 ChangeLog  
+- Removed:  
+--Fixed a url for Mod Organizer 2, it should download properly now  
+
