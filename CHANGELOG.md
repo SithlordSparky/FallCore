@@ -91,3 +91,7 @@
 -1.0.2 ChangLog  
 -Removed:  
 --4K Map, it was redudant since FallUI Maps adds one.  
+
+-1.0.3 ChangeLog
+-Removed:
+--Rootbuilder Folder from plugins that screwed up the last compile. 
