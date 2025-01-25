@@ -21,21 +21,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/SithlordSparky/FallCore/refs/heads/main/Assets/Fallcore.webp",
       "readme": "https://github.com/SithlordSparky/FallCore/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FallCore.wabbajack_9df12be4-0e07-432b-b78a-214b00c09daa",
+      "download": "https://authored-files.wabbajack.org/FallCore.wabbajack_e31c96e4-a70d-45dc-9721-81ec3d037f56",
       "machineURL": "FALLCORE",
       "discordURL": "https://discord.gg/SsCAsvEN"
     },
     "download_metadata": {
-      "Hash": "7coinfXZ9Vc=",
-      "Size": 1738938,
-      "NumberOfArchives": 1073,
-      "SizeOfArchives": 59081322345,
-      "NumberOfInstalledFiles": 23825,
-      "SizeOfInstalledFiles": 62611028190
+      "Hash": "BkBNeqnOX98=",
+      "Size": 1250059,
+      "NumberOfArchives": 279,
+      "SizeOfArchives": 58806982905,
+      "NumberOfInstalledFiles": 12647,
+      "SizeOfInstalledFiles": 61740471028
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-25T22:03:26.0039966Z",
+    "dateUpdated": "2025-01-25T23:51:05.1093541Z",
     "repositoryName": ""
   }
 ]
