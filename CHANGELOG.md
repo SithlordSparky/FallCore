@@ -87,3 +87,7 @@
 --Everything works now and there is no issues(that i know of)  
 - Removed:  
 --Lore Friendly Loading Screens as it caused a crash when entering buildings.  
+
+-1.0.2 ChangLog  
+-Removed:  
+--4K Map, it was redudant since FallUI Maps adds one.  
