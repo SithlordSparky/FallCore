@@ -78,3 +78,12 @@
 - Removed:  
 --Fixed a url for Mod Organizer 2, it should download properly now  
 
+-1.0.1 ChangeLog  
+- Changed:  
+--Split the Profiles into two:  
+---Potato and Performance  
+---had to split them so the different textures would be easier to use.  
+---1k-2k are now on the Potato profile and 4k on the Performance profile.  
+--Everything works now and there is no issues(that i know of)  
+- Removed:  
+--Lore Friendly Loading Screens as it caused a crash when entering buildings.  
