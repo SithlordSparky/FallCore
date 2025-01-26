@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "FallCore",
     "description": "FallCore is a simple core setup for Fallout 4.  A great spot to start a new modlist.  All the mods and tools needed to get into the game.",
     "author": "JustinKringstad",
@@ -8,31 +7,35 @@
       "github/SithlordSparky"
     ],
     "game": "fallout4",
+    "official": false,
     "tags": [
       "Official",
       "Fallout4",
       "Starter"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/SithlordSparky/FallCore/refs/heads/main/Assets/Fallcore.webp",
       "readme": "https://github.com/SithlordSparky/FallCore/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/FallCore.wabbajack_27209944-923a-4668-a0e2-82238a5fcaa1",
+      "download": "https://authored-files.wabbajack.org/FallCore.wabbajack_cc56601e-faef-4fb7-9566-a4d52b972a81",
       "machineURL": "FALLCORE",
       "discordURL": "https://discord.gg/SsCAsvEN"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "dmPe0+fj56M=",
-      "Size": 1253657,
-      "NumberOfArchives": 279,
-      "SizeOfArchives": 58806982905,
-      "NumberOfInstalledFiles": 12680,
-      "SizeOfInstalledFiles": 61810626026
+      "Hash": "5/rddK5/mKE=",
+      "Size": 1180335,
+      "NumberOfArchives": 264,
+      "SizeOfArchives": 42074418040,
+      "NumberOfInstalledFiles": 12552,
+      "SizeOfInstalledFiles": 44113383916
     },
-    "version": "1.0.4"
+    "version": "1.0.5",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-01-26T22:57:20.8672384Z",
+    "repositoryName": ""
   }
 ]
