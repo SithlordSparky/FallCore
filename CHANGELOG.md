@@ -88,7 +88,7 @@
 - Removed:  
 --Lore Friendly Loading Screens as it caused a crash when entering buildings.  
 
--1.0.2 ChangLog  
+-1.0.2 ChangeLog  
 -Removed:  
 --4K Map, it was redudant since FallUI Maps adds one.  
 
