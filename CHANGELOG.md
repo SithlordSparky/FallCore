@@ -95,3 +95,7 @@
 -1.0.3 ChangeLog
 -Removed:
 --Rootbuilder Folder from plugins that screwed up the last compile. 
+
+-1.0.4 ChangeLog
+-Fixed:
+--plugin that screwed up the last compile. 
