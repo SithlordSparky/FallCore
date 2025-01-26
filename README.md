@@ -34,7 +34,7 @@ It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful bui
 
 # Quick Links
 
-- [Discord](https://discord.gg/SsCAsvEN) for community support with the mod list.
+- [Discord](https://discord.gg/dwGE5xFR) for community support with the mod list.
 
 # Installation
 
@@ -193,4 +193,4 @@ By default the list ships with a safe 720p fullscreen configuration. To change t
 Simply delete the installation folder (`C:\WJ\FallCore` if you have been following this guide) and that will remove it, but why would you want to?
 
 ## Contact and Technical Support
-Please check the [Issues](https://github.com/SithlordSparky/FallCore/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug in the mod list, please file bug report [here](https://github.com/SithlordSparky/FallCore/issues) with as much information as possible to replicate the issue. There is a [Support Discord]() for issues with the mod list. Requests for support on any other platform will be ignored.
+Please check the [Issues](https://github.com/SithlordSparky/FallCore/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. If you believe you have found a bug in the mod list, please file bug report [here](https://github.com/SithlordSparky/FallCore/issues) with as much information as possible to replicate the issue. There is a [Support Discord](https://discord.gg/dwGE5xFR) for issues with the mod list. Requests for support on any other platform will be ignored.
