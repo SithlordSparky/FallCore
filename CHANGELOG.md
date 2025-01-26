@@ -99,3 +99,9 @@
 -1.0.4 ChangeLog
 -Fixed:
 --plugin that screwed up the last compile. 
+
+-1.0.5 ChangeLog  
+-Removed:  
+--The two profiles and setup just one profile with no extra textures. you'll have to get them on your own.  
+-Added:  
+--Photo Mode  
