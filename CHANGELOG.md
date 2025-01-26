@@ -88,7 +88,7 @@
 - Removed:  
 --Lore Friendly Loading Screens as it caused a crash when entering buildings.  
 
--1.0.2 ChangLog  
+-1.0.2 ChangeLog  
 -Removed:  
 --4K Map, it was redudant since FallUI Maps adds one.  
 
@@ -99,9 +99,3 @@
 -1.0.4 ChangeLog
 -Fixed:
 --plugin that screwed up the last compile. 
-
--1.0.5 ChangeLog  
--Removed:  
---The two profiles and setup just one profile with no extra textures. you'll have to get them on your own.  
--Added:  
---Photo Mode  
