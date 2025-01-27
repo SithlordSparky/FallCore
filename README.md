@@ -1,6 +1,6 @@
 # JustinKringstad's FallCore Modlist
 <img src="https://raw.githubusercontent.com/SithlordSparky/FallCore/refs/heads/main/Assets/Fallcore.webp" alt="FallCore">
-FallCore runs on Next Gen, 1.10.163
+FallCore runs on Next Gen, 1.10.163  
 FallCore is a simple core setup for Fallout 4.  A great spot to start a new modlist.  All the mods and tools needed to get into the game.
 
 It contains F4SE, Buffout 4 and several other F4SE based bugfixes and useful building utilities. In addition it contains the UFO4P, and Modding Tools needed for Fallout 4.
