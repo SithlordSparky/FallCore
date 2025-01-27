@@ -99,3 +99,15 @@
 -1.0.4 ChangeLog
 -Fixed:
 --plugin that screwed up the last compile. 
+
+-1.0.5 ChangeLog  
+-Removed:  
+--The 2 profiles and setup Main.  
+--Took out the 1k and 4k texutures  
+-Added:  
+--Photo Mode  
+--Imgur Icons  
+--Baka Framework  
+
+-1.0.6 ChangeLog:  -Not Out Yet
+
