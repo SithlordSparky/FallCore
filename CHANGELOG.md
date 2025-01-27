@@ -108,3 +108,6 @@
 --Photo Mode  
 --Imgur Icons  
 --Baka Framework  
+
+-1.0.6 ChangeLog:  -Not Out Yet
+
