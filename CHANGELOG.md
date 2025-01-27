@@ -109,5 +109,7 @@
 --Imgur Icons  
 --Baka Framework  
 
--1.0.6 ChangeLog:  -Not Out Yet
+-1.0.6 ChangeLog: 
+-Removed:  
+--Console AutoComplete as it sometimes causesd a crash during character creation.
 

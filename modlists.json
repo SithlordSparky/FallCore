@@ -23,17 +23,17 @@
       "readme": "https://github.com/SithlordSparky/FallCore/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/FallCore.wabbajack_cc56601e-faef-4fb7-9566-a4d52b972a81",
       "machineURL": "FALLCORE",
-      "discordURL": "https://discord.gg/SsCAsvEN"
+      "discordURL": "https://discord.gg/KyGNXkcxmb"
     },
     "download_metadata": {
-      "Hash": "5/rddK5/mKE=",
-      "Size": 1180335,
-      "NumberOfArchives": 264,
-      "SizeOfArchives": 42074418040,
-      "NumberOfInstalledFiles": 12552,
-      "SizeOfInstalledFiles": 44113383916
+      "Hash": "pb+/vHs9yAg=",
+      "Size": 1179657,
+      "NumberOfArchives": 263,
+      "SizeOfArchives": 42071900648,
+      "NumberOfInstalledFiles": 12548,
+      "SizeOfInstalledFiles": 44099634849
     },
-    "version": "1.0.5",
+    "version": "1.0.6",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-01-26T22:57:20.8672384Z",
     "repositoryName": ""
